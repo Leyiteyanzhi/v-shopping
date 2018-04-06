@@ -5,57 +5,57 @@
     "list":[
       {
         "productId":"600100002115",
-        "productName":"黄鹤楼香烟",
-        "productPrice":19,
+        "productName":"iPhone X",
+        "productPrice":8888,
         "productQuantity":1,
         "productImage":"img/goods-1.jpg",
         "parts":[
           {
             "partsId":"10001",
-            "partsName":"打火机",
+            "partsName":"手机壳",
             "imgSrc":"img/part-1.jpg"
           },
           {
             "partsId":"10002",
-            "partsName":"管制刀具",
+            "partsName":"钢化膜",
             "imgSrc":"img/part-1.jpg"
           },
           {
             "partsId":"10003",
-            "partsName":"饮料",
+            "partsName":"耳机",
             "imgSrc":"img/part-1.jpg"
           }
         ]
       },
       {
         "productId":"600100002120",
-        "productName":"加多宝",
-        "productPrice":8,
+        "productName":"ipad",
+        "productPrice":2222,
         "productQuantity":5,
         "productImage":"img/goods-2.jpg",
         "parts":[
           {
             "partsId":"20001",
-            "partsName":"吸管",
+            "partsName":"蓝牙键盘",
             "imgSrc":"img/part-2.jpg"
           }
         ]
       },
       {
         "productId":"600100002117",
-        "productName":"金装黄鹤楼",
-        "productPrice":25,
+        "productName":"macbook",
+        "productPrice":12345,
         "productQuantity":2,
-        "productImage":"img/goods-1.jpg",
+        "productImage":"img/goods-3.jpg",
         "parts":[
           {
             "partsId":"10001",
-            "partsName":"打火机-1",
+            "partsName":"电脑包",
             "imgSrc":"img/part-1.jpg"
           },
           {
             "partsId":"10002",
-            "partsName":"打火机-2",
+            "partsName":"耳机",
             "imgSrc":"img/part-1.jpg"
           }
         ]
