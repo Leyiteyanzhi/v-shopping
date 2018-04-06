@@ -10,4 +10,15 @@
 
 2.由于项目比较简单，所以没有npm有关的包，直接引用的CDN文件，不需要下载后再去安装vue的环境和各种安装包。
 
+### 界面：
+
+
+![Image text](https://github.com/Leyiteyanzhi/v-shopping/blob/master/img/1.png)
+
+
+![Image text](https://github.com/Leyiteyanzhi/v-shopping/blob/master/img/2.png)
+
+
+![Image text](https://github.com/Leyiteyanzhi/v-shopping/blob/master/img/3.png)
+
 
