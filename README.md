@@ -12,7 +12,6 @@
 
 ### 界面：
 
-
 ![Image text](https://github.com/Leyiteyanzhi/v-shopping/blob/master/img/1.png)
 
 
